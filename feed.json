@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zoglesby.micro.blog/2020/09/10/tried-to-use.html",
+				
+				"content_html": "<p>Tried to use neovim for 3 months, can&rsquo;t do it, going back to Emacs.</p>\n",
+				"content_text": "Tried to use neovim for 3 months, can't do it, going back to Emacs. \n",
+				"date_published": "2020-09-10T20:11:03-04:00",
+				"url": "https://zach.oglesby.co/2020/09/10/tried-to-use.html"
+			},
+			{
 				"id": "http://zoglesby.micro.blog/2020/08/18/arguing-about-a.html",
 				
 				"content_html": "<p>Arguing about a professional baseball player hitting a home run on a 3-0 pitch when the team has a big lead is crazy. Play to win, don&rsquo;t hold back.</p>\n",
