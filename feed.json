@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zoglesby.micro.blog/2022/06/11/a-local-book.html",
+				
+				"content_html": "<p>A local book store sent me a package. It went from Washington DC (20 miles away) to Memphis TN. Not sure how that is effective.</p>\n",
+				"content_text": "A local book store sent me a package. It went from Washington DC (20 miles away) to Memphis TN. Not sure how that is effective. \n",
+				"date_published": "2022-06-11T16:23:28-04:00",
+				"url": "https://zach.oglesby.co/2022/06/11/a-local-book.html"
+			},
+			{
+				"id": "http://zoglesby.micro.blog/2022/06/07/162502.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2022/b1a9bc827b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-06-07T16:25:02-04:00",
+				"url": "https://zach.oglesby.co/2022/06/07/162502.html"
+			},
+			{
 				"id": "http://zoglesby.micro.blog/2022/06/06/i-assume-apple.html",
 				
 				"content_html": "<p>I assume Apple did not announce anything to let me run Emacs natively on an iPad.</p>\n",
