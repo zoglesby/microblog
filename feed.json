@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://zoglesby.micro.blog/2022/08/12/had-a-great.html",
+				
+				"content_html": "<p>Had a great vacation in the Dominica Republic. We really enjoyed getting away as a family and spending time relaxing. Such a beautiful country and wounderful people!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had a great vacation in the Dominica Republic. We really enjoyed getting away as a family and spending time relaxing. Such a beautiful country and wounderful people!\n\n<img src=\"uploads/2022/da7375f76d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-08-12T22:35:39-04:00",
+				"url": "https://zach.oglesby.co/2022/08/12/had-a-great.html"
+			},
+			{
 				"id": "http://zoglesby.micro.blog/2022/08/04/it-seems-like.html",
 				
-				"content_html": "<p>It seems like Microsoft is killing it with the Surface lineup. I am on vacation and I have seen more Surface products that MacBooks or Dell laptops combined. This is obviously not backed up by sales data, but the experience is real if not puzzling.</p>\n",
-				"content_text": "It seems like Microsoft is killing it with the Surface lineup. I am on vacation and I have seen more Surface products that MacBooks or Dell laptops combined. This is obviously not backed up by sales data, but the experience is real if not puzzling. \n",
+				"content_html": "<p>It seems like Microsoft is killing it with the Surface lineup. I am on vacation and I have seen more Surface products than MacBooks or Dell laptops combined. This is obviously not backed up by sales data, but the experience is real if not puzzling.</p>\n",
+				"content_text": "It seems like Microsoft is killing it with the Surface lineup. I am on vacation and I have seen more Surface products than MacBooks or Dell laptops combined. This is obviously not backed up by sales data, but the experience is real if not puzzling. \n",
 				"date_published": "2022-08-04T10:36:41-04:00",
 				"url": "https://zach.oglesby.co/2022/08/04/it-seems-like.html"
 			},
