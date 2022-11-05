@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zoglesby.micro.blog/2022/11/04/my-daughter-scored.html",
+				
+				"content_html": "<p>My daughter scored her first ever goal in the first half of her last game of the season and a clean sheet in goal in the second. Parenting is so fun sometimes.</p>\n",
+				"content_text": "My daughter scored her first ever goal in the first half of her last game of the season and a clean sheet in goal in the second. Parenting is so fun sometimes. \n",
+				"date_published": "2022-11-04T21:03:04-04:00",
+				"url": "https://zach.oglesby.co/2022/11/04/my-daughter-scored.html"
+			},
+			{
 				"id": "http://zoglesby.micro.blog/2022/10/08/commercial-during-wildcard.html",
 				
 				"content_html": "<p>Commercial during Wildcard games on ESPN “Did you know Google makes a phone?” Yikes. That says a lot out their brand recognition in the phone market.</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://zoglesby.micro.blog/2022/08/12/had-a-great.html",
 				
 				"content_html": "<p>Had a great vacation in the Dominica Republic. We really enjoyed getting away as a family and spending time relaxing. Such a beautiful country and wounderful people!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a great vacation in the Dominica Republic. We really enjoyed getting away as a family and spending time relaxing. Such a beautiful country and wounderful people!\n\n<img src=\"uploads/2022/da7375f76d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Had a great vacation in the Dominica Republic. We really enjoyed getting away as a family and spending time relaxing. Such a beautiful country and wounderful people!\n\n<img src=\"https://zach.oglesby.co/uploads/2022/da7375f76d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-08-12T22:35:39-04:00",
 				"url": "https://zach.oglesby.co/2022/08/12/had-a-great.html"
 			},
