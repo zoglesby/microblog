@@ -26,7 +26,7 @@
 				"id": "http://zoglesby.micro.blog/2022/08/18/pro-tip-make.html",
 				
 				"content_html": "<p>Pro tip: Make sure you are not scaling a picture of your family on your desktop background. Avoid being asked &ldquo;Do I really look like that?&rdquo;</p>\n<p>For my X11 friends&hellip;</p>\n<p>[✓] <code>feh --bg-fill</code> good</p>\n<p>[✗] <code>feh --bg-scale</code> bad</p>\n",
-				"content_text": "Pro tip: Make sure you are not scaling a picture of your family on your desktop background. Avoid being asked \"Do I really look like that?\"\r\n\r\nFor my X11 friends...\r\n\r\n [✓] `feh --bg-fill` good\r\n\r\n [✗] `feh --bg-scale` bad\n",
+				"content_text": "Pro tip: Make sure you are not scaling a picture of your family on your desktop background. Avoid being asked \"Do I really look like that?\"\n\nFor my X11 friends...\n\n\n [✓] `feh --bg-fill` good\n\n\n [✗] `feh --bg-scale` bad\n",
 				"date_published": "2022-08-18T13:22:16-05:00",
 				"url": "https://zach.oglesby.co/2022/08/18/pro-tip-make.html"
 			},
