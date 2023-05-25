@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zoglesby.micro.blog/2023/05/19/i-finally-found.html",
+				
+				"content_html": "<p>I finally found a use case for ChatGPT. Ask it a question that I am interested in. After it gives its answer ask it for book on the topic. It provides me a list of books and a synopsis of each.</p>\n<p>Way faster than trying to google for books on a topic where I have to read multiple people’s articles.</p>\n",
+				"content_text": "I finally found a use case for ChatGPT. Ask it a question that I am interested in. After it gives its answer ask it for book on the topic. It provides me a list of books and a synopsis of each. \n\nWay faster than trying to google for books on a topic where I have to read multiple people’s articles. \n",
+				"date_published": "2023-05-19T12:37:57-04:00",
+				"url": "https://zach.oglesby.co/2023/05/19/i-finally-found.html"
+			},
+			{
 				"id": "http://zoglesby.micro.blog/2023/05/18/i-am-not.html",
 				
 				"content_html": "<p>I am not sure what people are upset about in San Diego. This is on brand for the Padres. Even with a loaded team they are unable to find a way to win. We are a cursed fan base.</p>\n<p>Yes, the season is still new and there is lots of time to turn it around. My point is that we should be use to this by now.</p>\n",
