@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://zoglesby.micro.blog/2023/06/01/finished-reading-ordinary.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781611808773\">Ordinary Wonder</a> by Charlotte Joko Beck 📚</p>\n<blockquote>\n<p>We have to work with the truth or we miss an opportunity.</p>\n</blockquote>\n",
+				"content_text": "Finished reading: [Ordinary Wonder](https://micro.blog/books/9781611808773) by Charlotte Joko Beck 📚\n\n> We have to work with the truth or we miss an opportunity. \n\n",
+				"date_published": "2023-06-01T17:51:54-04:00",
+				"url": "https://zach.oglesby.co/2023/06/01/finished-reading-ordinary.html"
+			},
+			{
+				"id": "http://zoglesby.micro.blog/2023/05/25/finished-reading-sapiens.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062316103\">Sapiens</a> by Yuval Noah Harari 📚</p>\n",
+				"content_text": "Finished reading: [Sapiens](https://micro.blog/books/9780062316103) by Yuval Noah Harari 📚\n",
+				"date_published": "2023-05-25T23:26:07-04:00",
+				"url": "https://zach.oglesby.co/2023/05/25/finished-reading-sapiens.html"
+			},
+			{
 				"id": "http://zoglesby.micro.blog/2023/05/19/i-finally-found.html",
 				
 				"content_html": "<p>I finally found a use case for ChatGPT. Ask it a question that I am interested in. After it gives its answer ask it for book on the topic. It provides me a list of books and a synopsis of each.</p>\n<p>Way faster than trying to google for books on a topic where I have to read multiple people’s articles.</p>\n",
