@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://zoglesby.micro.blog/2023/06/04/if-its-not.html",
+				
+				"content_html": "<p>If its not clear by my posts, I have not done a single technical thing after work hours as of late. I get done working, do soccer stuff for the kids if the day requires it, and then I read a book. Not sure how long this will keep up, but I do feel better this way.</p>\n",
+				"content_text": "If its not clear by my posts, I have not done a single technical thing after work hours as of late. I get done working, do soccer stuff for the kids if the day requires it, and then I read a book. Not sure how long this will keep up, but I do feel better this way.\n",
+				"date_published": "2023-06-04T20:14:14-04:00",
+				"url": "https://zach.oglesby.co/2023/06/04/if-its-not.html"
+			},
+			{
+				"id": "http://zoglesby.micro.blog/2023/06/03/finished-reading-on.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781473569065\">On the Origin of Time</a> by Thomas Hertog 📚</p>\n<p>This was light on actual science and heavy on storytelling but still had some interesting ideas and thing to think about.</p>\n",
+				"content_text": "Finished reading: [On the Origin of Time](https://micro.blog/books/9781473569065) by Thomas Hertog 📚\n\nThis was light on actual science and heavy on storytelling but still had some interesting ideas and thing to think about. \n",
+				"date_published": "2023-06-03T12:19:50-04:00",
+				"url": "https://zach.oglesby.co/2023/06/03/finished-reading-on.html"
+			},
+			{
+				"id": "http://zoglesby.micro.blog/2023/06/02/finished-reading-chip.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781982172022\">Chip War</a> by Chris Miller 📚</p>\n<p>This neat book tied together a lot of the history I knew about and things I was not aware of, providing a clear history of the chip industry and how we got to where we are today.</p>\n",
+				"content_text": "Finished reading: [Chip War](https://micro.blog/books/9781982172022) by Chris Miller 📚\r\n\r\nThis neat book tied together a lot of the history I knew about and things I was not aware of, providing a clear history of the chip industry and how we got to where we are today. \n",
+				"date_published": "2023-06-02T15:11:58-04:00",
+				"url": "https://zach.oglesby.co/2023/06/02/finished-reading-chip.html"
+			},
+			{
 				"id": "http://zoglesby.micro.blog/2023/06/01/finished-reading-ordinary.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781611808773\">Ordinary Wonder</a> by Charlotte Joko Beck 📚</p>\n<blockquote>\n<p>We have to work with the truth or we miss an opportunity.</p>\n</blockquote>\n",
